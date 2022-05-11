@@ -1,2 +1,2 @@
-# project-landing
-2nd task for The Odin Project.
+# landing-page
+The second project task in The Odin Project.
