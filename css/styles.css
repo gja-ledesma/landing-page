@@ -9,13 +9,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* HEADER */
 header {
     background-color: #1f2937;
     padding: 1em 13em;
 }
 
-/* NAVIGATION */
 #logo {
     font-size: 24px;
     font-weight: 900;
@@ -41,7 +39,6 @@ a:link {
     text-decoration: none;
 }
 
-/* WELCOME */
 .welcome {
     padding: 7em 0;
     display: flex;
@@ -86,7 +83,6 @@ button {
     height: 215px;
 }
 
-/* CARD SECTION */
 main {
     display: flex;
     flex-direction: column;
@@ -125,7 +121,6 @@ main h2 {
     height: 160px;
 }
 
-/* QUOTE */
 .quote {
     display: flex;
     flex-direction: column;
@@ -147,7 +142,6 @@ main h2 {
     color: #1f2937;
 }
 
-/* SIGN UP */
 .sign-up {
     display: flex;
     justify-content: center;
