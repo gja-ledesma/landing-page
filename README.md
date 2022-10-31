@@ -1,5 +1,5 @@
 # landing-page
-The second project task in The Odin Project. Visit [this](https://neo-ran.github.io/landing-page/) site to see output.
+The second project task in The Odin Project. Visit [this](https://gja-ledesma.github.io/landing-page/) site to see output.
 
 By completing this particular project, I have demonstrated:
 - Proper use of the CSS flexbox and the attributes. 
